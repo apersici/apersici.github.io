@@ -1,3 +1,2 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 carina.png filter=lfs diff=lfs merge=lfs -text
-public/carina.png filter=lfs diff=lfs merge=lfs -text
