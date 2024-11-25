@@ -83,7 +83,7 @@ const Hero = () => {
         Computer Scientist Engineer
       </motion.div>
       <div className="imageContainer">
-        <img src="/Andreaport.png" alt="" />
+        <img src="public/Andreaport.png" alt="" />
       </div>
     </div>
   );

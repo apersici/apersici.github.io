@@ -23,37 +23,37 @@ const Background = () => {
     {
       title: "Politecnico di Milano",
       description: "M. Sc. in Computer Science and Engineering",
-      icon: "/public/polilogo.png", // Image path for icon
+      icon: "public/polilogo.png", // Image path for icon
       date: "2021 - Present",
     },
     {
       title: "Euclid Consortium",
       description: "ESA Associate",
-      icon: "/public/euclidcon.png", // Image path for icon
+      icon: "public/euclidcon.png", // Image path for icon
       date: "December 2023 - Present",
     },
     {
       title: "European Space Agency (ESA)",
       description: "Traineeship",
-      icon: "/public/esa.png", // Image path for icon
+      icon: "public/esa.png", // Image path for icon
       date: "June 2023 - November 2023",
     },
     {
       title: "Università degli Studi di Urbino Carlo Bo",
       description: "B.Sc. in Applied Computer Science",
-      icon: "/public/uniurb.png", // Image path for icon
+      icon: "public/uniurb.png", // Image path for icon
       date: "2017 - 2021",
     },
     {
       title: "Solar Orbiter Metis Cosmic Rays Topical Team",
       description: "Member of the Topical Team 13",
-      icon: "/public/metis.png", // Image path for icon
+      icon: "public/metis.png", // Image path for icon
       date: "February 2021 - Present",
     },
     {
       title: "Internship Section of Physics",
       description: "Università degli Studi di Urbino Carlo Bo",
-      icon: "/public/uniurb.png", // Image path for icon
+      icon: "public/uniurb.png", // Image path for icon
       date: "August 2020 - February 2021",
     },
   ];
