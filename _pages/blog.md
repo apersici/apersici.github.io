@@ -16,6 +16,8 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+Come back later for news!
+<!--
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -194,3 +196,4 @@ pagination:
 {% endif %}
 
 </div>
+-->
