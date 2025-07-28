@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my poster at the [Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu)! :sparkles: :smile:
+Presented my poster at the [Center for Astrophysics, Harvard & Smithsonian](https://www.cfa.harvard.edu)! :sparkles: :smile:
