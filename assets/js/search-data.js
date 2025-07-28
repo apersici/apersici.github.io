@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-got-selected-as-a-research-intern-at-the-european-space-agency",
+          title: 'Got selected as a research intern at the European Space Agency!',
           description: "",
           section: "News",},{id: "news-started-new-position-as-a-marie-curie-phd-fellow",
           title: 'Started new position as a Marie Curie PhD Fellow',
