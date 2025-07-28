@@ -443,13 +443,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-new-position-as-a-marie-curie-phd-fellow",
+          title: 'Started new position as a Marie Curie PhD Fellow',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-https-www-cfa-harvard-edu-sparkles-smile",
-          title: 'Presented my poster at the [Center for Astrophysics Harvard &amp;amp;amp; Smithsonian](https://www.cfa.harvard.edu)! :sparkles: :smile:...',
+            },},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-sparkles-smile",
+          title: 'Presented my poster at the Center for Astrophysics, Harvard &amp;amp;amp; Smithsonian! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
