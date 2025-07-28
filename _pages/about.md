@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Andrea Persici! Tell the world about yourself. Link to your favorite [linkedin](https://www.linkedin.com/in/andrea-persici/). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+👋 Hi, my name is Andrea Persici! 
+I am a Marie Skłodowska-Curie Fellow in AI/ML x Astrophysics, based in Paris. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am extremely fond of computer science and astronomy, and I have been working at the intersection between the two fields for a few years.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main research focuses on improving faint object detection in deep astronomical surveys, using mathematical morphology and machine learning. Images from Euclid, Rubin, and LIGHTS (Large Binocular Telescope) are key for this research.
+
+I hold M.Sc in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it) (Italy) and I am a former research intern at the [European Space Agency](https://www.esa.int) (Madrid, Spain) working for the Euclid mission in the Science and Operations Department. 
+
