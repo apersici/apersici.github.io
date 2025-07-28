@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://apersici.github.io/al-folio/sitemap.xml
+Sitemap: https://apersici.github.io/sitemap.xml
