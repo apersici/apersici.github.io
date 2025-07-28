@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-https-www-cfa-harvard-edu-sparkles-smile",
+          title: 'Presented my poster at the [Center for Astrophysics Harvard &amp;amp;amp; Smithsonian](https://www.cfa.harvard.edu)! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -511,6 +511,13 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/andrea-persici", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -522,14 +529,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://apersici.github.io/", "_blank");
+          window.open("https://scholar.google.com/citations?user=7FJm8ywAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
