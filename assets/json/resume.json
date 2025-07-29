@@ -64,6 +64,7 @@
     },
     {
       "name": "Professional Orchestra Violinist and Private Violin Teacher",
+      "position": "Violin player",
       "url": "http://www.fgr-orchestra.com/organico/",
       "startDate": "2015-05",
       "endDate": "Present",
@@ -297,12 +298,12 @@
     },
     {
       "name": "Sandor Kruk",
-      "icon": "a-solid fa-laptop",
+      "icon": "fa-solid fa-laptop",
       "reference": "European Space Agency"
     },
     {
       "name": "Prof. Catia Grimani",
-      "icon": "a-solid fa-laptop",
+      "icon": "fa-solid fa-laptop",
       "reference": "University of Urbino Carlo Bo"
     }
   ]
