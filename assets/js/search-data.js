@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-started-my-period-as-a-visiting-fellow-at-the-instituto-de-astrofísica-de-canarias-iac",
         
-          title: "a post with plotly.js",
+          title: "Started my period as a Visiting Fellow at the Instituto de Astrofísica de...",
         
         description: "this is what included plotly.js code could look like",
         section: "Posts",
@@ -413,7 +413,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-sparkles-smile",
+            },},{id: "news-just-concluded-my-first-visit-at-the-instituto-de-astrofísica-de-canarias-in-tenerife",
+          title: 'Just concluded my first visit at the Instituto de Astrofísica de Canarias in...',
+          description: "",
+          section: "News",},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-sparkles-smile",
           title: 'Presented my poster at the Center for Astrophysics, Harvard &amp;amp;amp; Smithsonian! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
