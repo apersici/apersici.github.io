@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
+      },{id: "post-observation-school-in-la-palma-canary-islands",
+        
+          title: "Observation School in La Palma, Canary Islands",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/photo-gallery2/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
