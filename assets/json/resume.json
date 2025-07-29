@@ -4,7 +4,6 @@
     "label": "Marie Curie Early-Stage Researcher",
     "image": "",
     "email": "andrea.persici@esiee.fr",
-    "phone": "(912) 123-4567",
     "url": "https://apersici.github.io",
     "summary": "Italian computer scientist living in Paris working on astronomical images ",
     "location": {
@@ -33,13 +32,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "organization": "Young ESA",
+      "location": "Madrid, Spain",
+      "position": "Newcomers and Social Events Team",
+      "url": "https://www.esa.int",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "I contributed to the planning and organisation of Newcomers and Social Events held at the European Space Astronomy Centre (ESAC) in Madrid, Spain. These events were designed to warmly welcome newcomers to the ESA community and provide opportunities for social interaction. In doing so, we aimed to create an inclusive supportive atmosphere for individuals who were joining ESA, facilitating their integration within this dynamic and international organisation. This also included organising events for the YoungESA community to connect with experienced colleagues and coordinating the activities during ESA Team Day and Open Day.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
@@ -48,19 +47,33 @@
       "institution": "Politecnico di Milano",
       "location": "Milan, Italy",
       "url": "https://www.polimi.it/",
-      "area": "Data Science",
+      "area": "Computer Science and Engineering",
       "studyType": "M.Sc.",
-      "endDate": "2024-12-11",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2024-12-11"
+    },
+    {
+      "institution": "University of Urbino Carlo Bo",
+      "location": "Urbino, Italy",
+      "url": "https://www.uniurb.it/",
+      "area": "Applied Computer Science",
+      "studyType": "B.Sc.",
+      "endDate": "2021-02-11"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Top 100 Students of the University of Urbino",
+      "date": "2020-07",
+      "awarder": "University of Urbino Carlo Bo",
+      "url": "https://uniurb.it/comunicati/32391",
+      "summary": "Best student achievement award in terms of educational credits acquired and average mark reported"
+    },
+    {
+      "title": "Moscow Conservatory Scholarship",
+      "date": "2015-12",
+      "awarder": "Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)",
+      "url": "https://www.mosconsv.ru/en/",
+      "summary": "Visiting student at Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)."
     }
   ],
   "certificates": [
