@@ -4,8 +4,8 @@
     "label": "Marie Curie Early-Stage Researcher",
     "image": "",
     "email": "andrea.persici@esiee.fr",
-    "url": "https://apersici.github.io",
-    "summary": "Italian computer scientist living in Paris working on astronomical images ",
+    "url": "https://apersici.github.io/",
+    "summary": "🇮🇹 Italian computer scientist living in Paris, working on astronomical images.",
     "location": {
       "city": "Paris",
       "countryCode": "FR",
@@ -26,8 +26,17 @@
       "url": "https://example.com",
       "startDate": "2024-12-01",
       "endDate": "2027-12-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Marie Curie PhD Fellow working at the intersection between computer science and astronomy.",
       "highlights": ["Machine Learning, Astronomy, Mathematical Morphology"]
+    },
+    {
+      "name": "European Space Agency",
+      "position": "Research Intern",
+      "url": "https://www.esa.int",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Research Intern at the European Space Agency (Madrid, Spain) working for the Euclid mission in the Science and Operations Department.",
+      "highlights": ["Large catalogs, Parallel computing, Apache Spark, Dask, Object Detection"]
     }
   ],
   "volunteer": [
