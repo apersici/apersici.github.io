@@ -472,11 +472,18 @@ ninja.data = [{
           window.open("mailto:%61%6E%64%72%65%61.%70%65%72%73%69%63%69@%65%73%69%65%65.%66%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/apersici", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://inspirehep.net/authors/2684114", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -484,13 +491,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/andrea-persici", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("./feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
