@@ -424,9 +424,9 @@ ninja.data = [{
           description: "Undergraduate course at ESIEE Paris",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-algorithm-design",
+          title: 'Algorithm Design',
+          description: "Master course at ESIEE Paris",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
