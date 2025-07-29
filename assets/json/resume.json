@@ -21,22 +21,53 @@
   },
   "work": [
     {
-      "name": "Université Gustave Eiffel - LIGM",
-      "position": "Marie Curie Early-Stage Researcher",
-      "url": "https://example.com",
+      "name": "Marie Curie Early-Stage Researcher",
+      "position": "Université Gustave Eiffel",
+      "url": "https://www.esiee.fr/",
       "startDate": "2024-12-01",
       "endDate": "2027-12-01",
       "summary": "Marie Curie PhD Fellow working at the intersection between computer science and astronomy.",
       "highlights": ["Machine Learning, Astronomy, Mathematical Morphology"]
     },
     {
-      "name": "European Space Agency",
-      "position": "Research Intern",
+      "name": "Research Intern",
+      "position": "European Space Agency",
       "url": "https://www.esa.int",
       "startDate": "2023-06-01",
       "endDate": "2023-12-01",
       "summary": "Research Intern at the European Space Agency (Madrid, Spain) working for the Euclid mission in the Science and Operations Department.",
       "highlights": ["Large catalogs, Parallel computing, Apache Spark, Dask, Object Detection"]
+    },
+    {
+      "name": "Euclid Consortium",
+      "position": "ESA Associate",
+      "url": "https://www.euclid-ec.org",
+      "startDate": "2023-12-01",
+      "endDate": "Present",
+      "summary": "Working on parallel computing for catalog and image processing, source extraction from Euclid’s Early Release Observation (ERO) images, and applying machine learning techniques."
+    },
+    {
+      "name": "Solar Orbiter Metis Cosmic Rays Topical Team",
+      "position": "Member of the Metis Topical Team 13",
+      "url": "https://metis.oato.inaf.it",
+      "startDate": "2021-02-01",
+      "endDate": "Present",
+      "summary": "Conducting comprehensive analysis of cosmic-ray matrices through APViewer, delving deep into the dynamics of high-energy particles and their influence on the instrument’s performance. This involves a systematic exploration of data, pinpointing trends, anomalies, and patterns to enhance our understanding of the instrument’s behavior under different conditions. I leverage Python and graphical interfaces like WxPython in this analytical work. The collaboration with the Urbino team has led to three papers being published in Astronomy & Astrophysics."
+    },
+    {
+      "name": "Section of Physics",
+      "position": "University of Urbino Carlo Bo",
+      "url": "https://www.uniurb.it",
+      "startDate": "2020-08-01",
+      "endDate": "2021-01-31",
+      "summary": "Worked with the Metis (Solar Orbiter) group on a project for the analysis of the visible light images of the Metis coronagraph. Developed an algorithm in Python (APViewer) to allow for an easier visualisation of the cosmic-ray tracks gathered by the Metis visible light (VL) detector. The outcomes of this work are reported in a paper published in Astronomy and Astrophysics."
+    },
+    {
+      "name": "Professional Orchestra Violinist and Private Violin Teacher",
+      "url": "http://www.fgr-orchestra.com/organico/",
+      "startDate": "2015-05",
+      "endDate": "Present",
+      "summary": "As a Professional Orchestra Violinist I had the privilege to work with important conductors such as Riccardo Muti, Donato Renzetti, Daniel Oren, and to perform in well-known concert halls: e.g., Musikverein (Wien), Royal Albert Hall (London), Mozarteum Großer Saal (Salzburg). Beyond the stage, teaching young children how to play the violin showed me the importance of soft skills such as patience, organisation, and time management."
     }
   ],
   "volunteer": [
@@ -47,8 +78,7 @@
       "url": "https://www.esa.int",
       "startDate": "2023-06-01",
       "endDate": "2023-12-01",
-      "summary": "I contributed to the planning and organisation of Newcomers and Social Events held at the European Space Astronomy Centre (ESAC) in Madrid, Spain. These events were designed to warmly welcome newcomers to the ESA community and provide opportunities for social interaction. In doing so, we aimed to create an inclusive supportive atmosphere for individuals who were joining ESA, facilitating their integration within this dynamic and international organisation. This also included organising events for the YoungESA community to connect with experienced colleagues and coordinating the activities during ESA Team Day and Open Day.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "I contributed to the planning and organisation of Newcomers and Social Events held at the European Space Astronomy Centre (ESAC) in Madrid, Spain. These events were designed to warmly welcome newcomers to the ESA community and provide opportunities for social interaction. In doing so, we aimed to create an inclusive supportive atmosphere for individuals who were joining ESA, facilitating their integration within this dynamic and international organisation. This also included organising events for the YoungESA community to connect with experienced colleagues and coordinating the activities during ESA Team Day and Open Day."
     }
   ],
   "education": [
@@ -70,6 +100,22 @@
     }
   ],
   "awards": [
+    {
+      "title": "Top 100 Students of the University of Urbino",
+      "date": "2020-07",
+      "awarder": "University of Urbino Carlo Bo",
+      "url": "https://uniurb.it/comunicati/32391",
+      "summary": "Best student achievement award in terms of educational credits acquired and average mark reported"
+    },
+    {
+      "title": "Moscow Conservatory Scholarship",
+      "date": "2015-12",
+      "awarder": "Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)",
+      "url": "https://www.mosconsv.ru/en/",
+      "summary": "Visiting student at Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)."
+    }
+  ],
+  "presentations": [
     {
       "title": "Top 100 Students of the University of Urbino",
       "date": "2020-07",
@@ -154,16 +200,46 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "SQL",
+        "Java",
+        "C"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "JupyterLab",
+        "Visual Studio Code",
+        "Google Cloud Platform",
+        "Android Studio"
+      ]
+    },
+    {
+      "name": "Technologies/Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MacOS",
+        "Linux",
+        "Apache Spark",
+        "Dask",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "Tensorflow",
+        "Kubernetes",
+        "LaTeX",
+        "FV",
+        "SAOImage DS9",
+        "GitHub",
+        "Topcat"
       ]
     }
   ],
@@ -191,15 +267,25 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
+      "level": "Master",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Parallel Computing",
+        "Big Data",
+        "Quantum Computing"
+      ]
+    },
+    {
+      "name": "Astrophysics",
+      "level": "Master",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Low Surface Brightness Objects",
+        "Deep Astronomical Imaging"
       ]
     }
   ],
@@ -211,12 +297,12 @@
     },
     {
       "name": "Sandor Kruk",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "a-solid fa-laptop",
       "reference": "European Space Agency"
     },
     {
       "name": "Prof. Catia Grimani",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "a-solid fa-laptop",
       "reference": "University of Urbino Carlo Bo"
     }
   ]
