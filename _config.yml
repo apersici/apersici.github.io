@@ -633,11 +633,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+#  - projects
   - volunteer
   - awards
   - awards
-  - certificates
+#  - certificates
   - skills
   - languages
   - interests
