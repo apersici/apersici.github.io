@@ -118,18 +118,46 @@
   ],
   "presentations": [
     {
-      "title": "Top 100 Students of the University of Urbino",
-      "date": "2020-07",
-      "awarder": "University of Urbino Carlo Bo",
-      "url": "https://uniurb.it/comunicati/32391",
-      "summary": "Best student achievement award in terms of educational credits acquired and average mark reported"
+      "title": "Blended Source Detection in Deep Fields: A Max-Tree Approach Informed by Survey and Simulated Data",
+      "date": "2025-07",
+      "awarder": "Persici, A. et al.",
+      "url": "https://astroai.cfa.harvard.edu",
+      "summary": "AstroAI Workshop, Center for Astrophysics, Harvard & Smithsonian - Boston, USA"
     },
     {
-      "title": "Moscow Conservatory Scholarship",
-      "date": "2015-12",
-      "awarder": "Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)",
-      "url": "https://www.mosconsv.ru/en/",
-      "summary": "Visiting student at Moscow Conservatory P.I. Tchaikovsky (Московская государственная консерватория имени П. И. Чайковского)."
+      "title": "Evolution of intense solar energetic particle events with EPD/HET and Metis",
+      "date": "2025-01",
+      "awarder": "Grimani, C. et al., Co-author",
+      "url": "https://indico.ict.inaf.it/event/3034/",
+      "summary": "II Metis Science Meeting - Naples, Italy"
+    },
+    {
+      "title": "Spacecraft deep charging due to galactic cosmic rays and solar energetic particles",
+      "date": "2024-06",
+      "awarder": "Grimani, C. et al., Co-author",
+      "url": "https://indico.esa.int/event/501/",
+      "summary": "European Space Radiation Shielding Workshop, ESA/ESTEC - Noordwijk, The Netherlands"
+    },
+    {
+      "title": "Cosmic-ray and Solar Energetic particle monitoring with the Solar Orbiter Metis Coronagraph",
+      "date": "2022-09",
+      "awarder": "Grimani, C. et al., Co-author",
+      "url": "https://uksolphys.org/conference/the-8th-solar-orbiter-workshop-belfast-northern-ireland-12-15-september-2022/#:~:text=February%2013%2C%202022-,The%208th%20Solar%20Orbiter%20Workshop%20–%20Belfast%20Northern%20Ireland%2012%20–%2015,how%20it%20affects%20the%20Earth.",
+      "summary": "8th Solar Orbiter Workshop - Belfast"
+    },
+    {
+      "title": "A dedicated high-energy particle environmental study for the Solar Orbiter Coronagraph Metis",
+      "date": "2021-09",
+      "awarder": "Grimani, C. et al., Co-author",
+      "url": "https://indico.ict.inaf.it/event/794/",
+      "summary": "16th European Solar Physics Meeting, European Solar Physics Division (Online)"
+    },
+    {
+      "title": "A radiation Environmental Study for the Metis Coronagraph on board Solar Orbiter",
+      "date": "2020-12",
+      "awarder": "Grimani, C. et al., Co-author",
+      "url": "https://www.agu.org/Fall-Meeting-2020",
+      "summary": "AGU20 Fall Meeting, American Geophysical Union (Online)"
     }
   ],
   "certificates": [
