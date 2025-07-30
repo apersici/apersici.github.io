@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery2/";
           
         },
+      },{id: "post-esac-open-day",
+        
+          title: "ESAC Open Day",
+        
+        description: "European Space Astronomy Centre (ESAC) 2023 Open Day",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/openday/";
+          
+        },
       },{id: "post-watching-rubin-39-s-first-images-release-from-the-iac",
         
           title: "Watching Rubin&#39;s first images release from the IAC!",
@@ -78,12 +89,18 @@ ninja.data = [{
             },},{id: "news-got-selected-as-a-research-intern-at-the-european-space-agency",
           title: 'Got selected as a research intern at the European Space Agency!',
           description: "",
-          section: "News",},{id: "news-started-new-position-as-a-marie-curie-phd-fellow",
-          title: 'Started new position as a Marie Curie PhD Fellow',
+          section: "News",},{id: "news-the-european-space-astronomy-centre-esac-opened-its-doors-on-october-21st-for-a-fantastic-open-day",
+          title: 'The European Space Astronomy Centre (ESAC) opened its doors on October 21st for...',
+          description: "",
+          section: "News",},{id: "news-started-new-position-as-a-marie-curie-early-stage-researcher",
+          title: 'Started new position as a Marie Curie Early-Stage Researcher',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-just-concluded-my-first-visit-at-the-instituto-de-astrofísica-de-canarias-in-tenerife",
+            },},{id: "news-successfully-defended-my-thesis-and-got-awarded-a-m-sc-in-computer-science-and-engineering-from-politecnico-di-milano",
+          title: 'Successfully defended my thesis and got awarded a M.Sc. in Computer Science and...',
+          description: "",
+          section: "News",},{id: "news-just-concluded-my-first-visit-at-the-instituto-de-astrofísica-de-canarias-in-tenerife",
           title: 'Just concluded my first visit at the Instituto de Astrofísica de Canarias in...',
           description: "",
           section: "News",},{id: "news-presented-my-poster-at-the-center-for-astrophysics-harvard-amp-amp-smithsonian-sparkles-smile",
