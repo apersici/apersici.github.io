@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-astroai-workshop-at-the-center-for-astrophysics-harvard-amp-smithsonian",
+        
+          title: "AstroAI workshop at the Center for Astrophysics, Harvard &amp; Smithsonian",
+        
+        description: "AstroAI is a project led by Dr. Cecilia Garraffo in the Center for Astrophysics, Harvard &amp; Smithsonian",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/harvard/";
+          
+        },
       },{id: "post-observation-school-in-la-palma-canary-islands",
         
           title: "Observation School in La Palma, Canary Islands",
