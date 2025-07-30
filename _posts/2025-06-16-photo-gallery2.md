@@ -17,16 +17,14 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 ---
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
-
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/roque2.jpg">
-        <img src="assets/img/roque2.jpg" />
+    <a class="spotlight" href="/assets/img/roque2.jpg">
+        <img src="/assets/img/roque2.jpg" />
     </a>
-    <a class="spotlight" href="assets/img/roque1.jpg">
-        <img src="assets/img/roque1.jpg" />
+    <a class="spotlight" href="/assets/img/roque1.jpg">
+        <img src="/assets/img/roque1.jpg" />
     </a>
-    <a class="spotlight" href="assets/img/roque3.jpg">
-        <img src="assets/img/roque3.jpg" />
+    <a class="spotlight" href="/assets/img/roque3.jpg">
+        <img src="/assets/img/roque3.jpg" />
     </a>
 </div>
