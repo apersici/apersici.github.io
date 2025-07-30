@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Started new position as a Marie Curie PhD Fellow
+title: Started new position as a Marie Curie Early-Stage Researcher
 date: 2024-12-01 16:11:00-0400
 inline: false
 related_posts: false
