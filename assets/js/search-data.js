@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-started-my-period-as-a-visiting-fellow-at-the-instituto-de-astrofísica-de-canarias-iac",
+        },{id: "post-watching-rubin-39-s-first-images-release-from-the-iac",
+        
+          title: "Watching Rubin&#39;s first images release from the IAC!",
+        
+        description: "Rubin&#39;s watch party from Spain",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/videos/";
+          
+        },
+      },{id: "post-started-my-period-as-a-visiting-fellow-at-the-instituto-de-astrofísica-de-canarias-iac",
         
           title: "Started my period as a Visiting Fellow at the Instituto de Astrofísica de...",
         
@@ -68,17 +79,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/openday/";
-          
-        },
-      },{id: "post-watching-rubin-39-s-first-images-release-from-the-iac",
-        
-          title: "Watching Rubin&#39;s first images release from the IAC!",
-        
-        description: "Rubin&#39;s watch party from Spain",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "books-the-godfather",
