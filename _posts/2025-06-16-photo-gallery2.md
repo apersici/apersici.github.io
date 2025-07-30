@@ -14,7 +14,9 @@ images:
 ---
 
 ````
-Last july, I had the chance to attend the Observation School hosted at the Observatorio del Roque de los Muchachos (ORM). The focus was on an intensive, practice-oriented training programme in astronomical observation and data analysis.
+Last july, I had the chance to attend the Observation School hosted at the Observatorio del Roque <br>
+de los Muchachos (ORM). The focus was on an intensive, practice-oriented training programme <br>
+in astronomical observation and data analysis.
 
 Take a look at some of the images I took during the observing school!
 ````
