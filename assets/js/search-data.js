@@ -48,17 +48,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
       },{id: "post-observation-school-in-la-palma-canary-islands",
         
           title: "Observation School in La Palma, Canary Islands",
@@ -68,6 +57,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery2/";
+          
+        },
+      },{id: "post-watching-rubin-39-s-first-images-release-from-the-iac",
+        
+          title: "Watching Rubin&#39;s first images release from the IAC!",
+        
+        description: "Rubin&#39;s watch party from Spain",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "books-the-godfather",
