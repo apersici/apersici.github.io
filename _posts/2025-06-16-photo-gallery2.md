@@ -3,7 +3,7 @@ layout: post
 title: Observation School in La Palma, Canary Islands
 date: 2024-06-12 01:59:00
 description: Observation school in La Palma
-tags: formatting images
+tags: research images
 categories: sample-posts
 thumbnail: assets/img/roque2.jpg
 images:
@@ -14,8 +14,8 @@ images:
 ---
 
 ````
-Last july, I had the chance to attend the Observation School hosted at the Observatorio del Roque <br>
-de los Muchachos (ORM). The focus was on an intensive, practice-oriented training programme <br>
+Last july, I had the chance to attend the Observation School hosted at the Observatorio del Roque  
+de los Muchachos (ORM). The focus was on an intensive, practice-oriented training programme  
 in astronomical observation and data analysis.
 
 Take a look at some of the images I took during the observing school!
