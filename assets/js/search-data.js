@@ -63,7 +63,7 @@ ninja.data = [{
         
           title: "Observation School in La Palma, Canary Islands",
         
-        description: "this is what included image galleries could look like",
+        description: "Observation school in La Palma",
         section: "Posts",
         handler: () => {
           
