@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "AstroAI workshop at the Center for Astrophysics, Harvard &amp; Smithsonian",
         
-        description: "AstroAI is a project led by Dr. Cecilia Garraffo in the Center for Astrophysics, Harvard &amp; Smithsonian",
+        description: "AstroAI is an institute dedicated to the development of artificial intelligence to enable next generation astrophysics at the Center for Astrophysics, Harvard &amp; Smithsonian.",
         section: "Posts",
         handler: () => {
           
