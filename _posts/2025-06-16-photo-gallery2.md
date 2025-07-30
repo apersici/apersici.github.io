@@ -19,12 +19,13 @@ The images in this post are all zoomable, arranged into different mini-galleries
 
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/roque2.jpg">
-        <img src="/assets/img/roque2.jpg" />
+        <img src="/assets/img/roque2.jpg" alt="Photo 1" style="width: 150px; height: auto;"/>
+    </a>/>
     </a>
     <a class="spotlight" href="/assets/img/roque1.jpg">
-        <img src="/assets/img/roque1.jpg" />
+        <img src="/assets/img/roque1.jpg" alt="Photo 2" style="width: 150px; height: auto;"/>
     </a>
     <a class="spotlight" href="/assets/img/roque3.jpg">
-        <img src="/assets/img/roque3.jpg" />
+        <img src="/assets/img/roque3.jpg" alt="Photo 3" style="width: 150px; height: auto;"/>
     </a>
 </div>
