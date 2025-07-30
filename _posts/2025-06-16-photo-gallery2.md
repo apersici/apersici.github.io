@@ -13,14 +13,16 @@ images:
   venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
+````
+Last july, I had the chance to attend the Observation School hosted at the Observatorio del Roque de los Muchachos (ORM). The focus was on an intensive, practice-oriented training programme in astronomical observation and data analysis.
 
+Take a look at some of the images I took during the observing school!
+````
 ---
 
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/roque2.jpg">
         <img src="/assets/img/roque2.jpg" alt="Photo 1" style="width: 150px; height: auto;"/>
-    </a>/>
     </a>
     <a class="spotlight" href="/assets/img/roque1.jpg">
         <img src="/assets/img/roque1.jpg" alt="Photo 2" style="width: 150px; height: auto;"/>
