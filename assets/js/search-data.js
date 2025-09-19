@@ -92,12 +92,7 @@ ninja.data = [{
             window.location.href = "/blog/2023/openday/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-got-selected-as-a-research-intern-at-the-european-space-agency",
+      },{id: "news-got-selected-as-a-research-intern-at-the-european-space-agency",
           title: 'Got selected as a research intern at the European Space Agency!',
           description: "",
           section: "News",},{id: "news-the-european-space-astronomy-centre-esac-opened-its-doors-on-october-21st-for-a-fantastic-open-day",
