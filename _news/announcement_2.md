@@ -18,4 +18,3 @@ Description of my position can be found here: [Educado Network](https://research
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
-

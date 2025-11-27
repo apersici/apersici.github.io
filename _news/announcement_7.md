@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be teaching at 2025 [CosmicAI](https://cosmicai.org) Winter School in December (15th-19th)! :rocket:
+I will be teaching at 2025 [CosmicAI](https://cosmicai.org) Winter School in December (15th-19th)! 🚀

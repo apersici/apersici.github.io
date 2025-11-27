@@ -232,23 +232,13 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "SQL",
-        "Java",
-        "C"
-      ]
+      "keywords": ["Python", "SQL", "Java", "C"]
     },
     {
       "name": "Developer Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "JupyterLab",
-        "Visual Studio Code",
-        "Google Cloud Platform",
-        "Android Studio"
-      ]
+      "keywords": ["JupyterLab", "Visual Studio Code", "Google Cloud Platform", "Android Studio"]
     },
     {
       "name": "Technologies/Frameworks",
@@ -299,23 +289,13 @@
       "name": "Computer Science",
       "level": "Master",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Parallel Computing",
-        "Big Data",
-        "Quantum Computing"
-      ]
+      "keywords": ["Machine Learning", "Artificial Intelligence", "Computer Vision", "Parallel Computing", "Big Data", "Quantum Computing"]
     },
     {
       "name": "Astrophysics",
       "level": "Master",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Low Surface Brightness Objects",
-        "Deep Astronomical Imaging"
-      ]
+      "keywords": ["Low Surface Brightness Objects", "Deep Astronomical Imaging"]
     }
   ],
   "references": [

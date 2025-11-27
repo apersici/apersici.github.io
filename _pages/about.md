@@ -27,12 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hi, my name is Andrea Persici! 
-I am a [Marie Skłodowska-Curie PhD Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu) in AI/ML x Astrophysics, based in Paris. 
+👋 Hi, my name is Andrea Persici!
+I am a [Marie Skłodowska-Curie PhD Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu) in AI/ML x Astrophysics, based in Paris.
 
 I am extremely fond of computer science and astronomy, and I have been working at the intersection between the two fields for a few years.
 
 My main research focuses on improving faint object detection in deep astronomical surveys, using mathematical morphology and machine learning. Images from [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid), [Rubin](https://www.lsst.org), and LIGHTS ([Large Binocular Telescope](https://www.lbto.org)) are key for this research.
 
-I hold a M.Sc in Computer Science and Engineering from [Politecnico di Milano](https://www.polimi.it) (Italy) and I am a former Research Intern at the [European Space Agency](https://www.esa.int) (Madrid, Spain) working for the Euclid mission in the Science and Operations Department. 
-
+I hold a M.Sc in Computer Science and Engineering from [Politecnico di Milano](https://www.polimi.it) (Italy) and I am a former Research Intern at the [European Space Agency](https://www.esa.int) (Madrid, Spain) working for the Euclid mission in the Science and Operations Department.
