@@ -206,6 +206,13 @@
   ],
   "publications": [
     {
+      "name": "Galactic and solar energetic particle observations during the increasing part of solar cycle 25 with EPD/HET and Metis on board Solar Orbiter",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "2026-01-09",
+      "url": "https://www.aanda.org/articles/aa/full_html/2026/01/aa56636-25/aa56636-25.html",
+      "summary": "We studied the GCR flux long-term variations during the ascending phase of solar cycle 25 and the evolution of two SEP events observed on July 24–26, 2023, and on February 9–14, 2024, above 80 MeV with the aim of evaluating the impact of galactic and solar high-energy particles on Metis."
+    },
+    {
       "name": "Observation of solar energetic particles with Metis on board Solar Orbiter on February 25, 2023",
       "publisher": "Astronomy & Astrophysics",
       "releaseDate": "2024-05-30",
